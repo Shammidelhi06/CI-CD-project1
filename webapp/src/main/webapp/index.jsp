@@ -27,6 +27,7 @@
 <body>
   <div align="center">
     <h1>Waaw, Congratulations DevOps Team you did it ...</h1>
+    <h2>Integration using Ansible </h2>
     <p>For next steps, read the <a href="http://aws.amazon.com/documentation/codedeploy">AWS CodeDeploy Documentation</a>.</p>
   </div>
 </body>
